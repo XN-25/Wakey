@@ -8,7 +8,7 @@ pip install google-genai pyautogui pywinauto SpeechRecognition gTTS pygame pytho
 
 Features-
 1. Hybrid Cognitive & Vision Routing Core
-   Dynamic Dual-Model Pipeline: Intelligently switches between a high-capacity primary model (gemma-4-26b-a4b-it) and a high-speed fallback model (gemini-3.1-flash-lite).
+   Dynamic Dual-Model Pipeline: Intelligently switches between a high-capacity primary model (gemma-4-31b-a4b-it) and a high-speed fallback model (gemini-3.1-flash-lite).
    Cloud Failover System with Auto-Cooldown: Monitors API health in real-time. If the primary cloud model encounters an error or network drop, Wakey instantly fails over to the lighter engine and triggers a strict 10-minute cooldown timer before attempting to restore the primary model.
    Persistent Pure-Text Conversational Memory: Maintains a continuous text-based conversation buffer (chat_history) restricted to the last 6 messages to provide lightweight context preservation without inducing payload bloat or API latency.
    Multi-Modal Spatial Analysis Core: Enables the cloud AI to interpret live user interfaces via on-demand context-bound screenshots (pyautogui), matching structural descriptions to interface objects.
