@@ -4,7 +4,7 @@ Wakey transforms confusion into action by helping users understand information, 
 Dependencies-
 pip install google-genai pyautogui pywinauto SpeechRecognition gTTS pygame python-dotenv huggingface_hub Pillow pyttsx3
 
-**Please ensure you have downloaded the .env file in the same folder as the python file.
+**Please ensure you have downloaded the .env file in the same folder as the python file.**
 
 Features-
 1. Hybrid Cognitive & Vision Routing Core
