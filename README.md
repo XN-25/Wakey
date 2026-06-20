@@ -7,8 +7,6 @@ pip install google-genai pyautogui pywinauto SpeechRecognition gTTS pygame pytho
 **Please ensure you have downloaded the .env file in the same folder as the python file.**
 Gallery-
 <img width="584" height="103" alt="Screenshot 2026-06-19 225838" src="https://github.com/user-attachments/assets/7c2cf525-c65c-48a6-83c3-dd10e3a1cf2a" />
-
-Flowchart;
 <img width="800" height="1035" alt="Document (6)PDF_260614_094505" src="https://github.com/user-attachments/assets/d068d011-f55c-44b7-888f-b12417b61de2" />
 Features-
 1. Hybrid Cognitive & Vision Routing Core
