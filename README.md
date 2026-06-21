@@ -1,6 +1,8 @@
 # Wakey
 Wakey transforms confusion into action by helping users understand information, navigate support systems, and complete digital tasks independently and safely.
 
+DISCLAIMER: FOR TASKS USING THE CLOUD MODEL, THE LATENCY MAY VARY WITH NETWORK CONECTIVITY AND MODEL USAGE (ON THE SERVER SIDER).
+
 Dependencies-
 pip install google-genai pyautogui pywinauto SpeechRecognition gTTS pygame python-dotenv huggingface_hub Pillow pyttsx3
 
