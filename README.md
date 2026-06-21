@@ -6,6 +6,11 @@ DISCLAIMER: FOR TASKS USING THE CLOUD MODEL, THE LATENCY MAY VARY WITH NETWORK C
 Dependencies-
 pip install google-genai pyautogui pywinauto SpeechRecognition gTTS pygame python-dotenv huggingface_hub Pillow pyttsx3
 
+Basic commands-
+Terminating- Computer.. Terminte
+Enabling Privacy mode- Computer.. Privacy mode
+Setting a language using voice- Computer.. Set language "language name (English, French, Hindi, Arabic"
+
 **Please ensure you have downloaded the .env file in the same folder as the python file.**
 Gallery-
 <img width="584" height="103" alt="Screenshot 2026-06-19 225838" src="https://github.com/user-attachments/assets/7c2cf525-c65c-48a6-83c3-dd10e3a1cf2a" />
